@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# AI Instructions
+This website provides Tamil news, cinema updates, and blogs.
